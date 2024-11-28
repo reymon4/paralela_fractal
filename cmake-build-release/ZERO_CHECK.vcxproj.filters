@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\fing.labcom\Documents\Paralela\ejemplo2_fractal\cmake-build-release\CMakeFiles\187436d7c46d31bdd15ac5dc6a421664\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{A1E5CB92-763A-312D-A403-BFD5CABD77EE}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

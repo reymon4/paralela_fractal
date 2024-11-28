@@ -1,0 +1,3 @@
+C:/Users/fing.labcom/Documents/Paralela/ejemplo2_fractal/cmake-build-release/CMakeFiles/ejemplo2_fractal.dir
+C:/Users/fing.labcom/Documents/Paralela/ejemplo2_fractal/cmake-build-release/CMakeFiles/edit_cache.dir
+C:/Users/fing.labcom/Documents/Paralela/ejemplo2_fractal/cmake-build-release/CMakeFiles/rebuild_cache.dir
